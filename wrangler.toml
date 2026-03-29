@@ -1,0 +1,18 @@
+name = "english-review"
+main = "src/worker.ts"
+compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./dist/client"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+[vars]
+APP_ENV = "development"
+
+# D1 Database binding
+[[d1_databases]]
+binding = "DB"
+database_name = "english-review-db"
+database_id = "348fcf12-0f28-468f-b0ac-b0af1df86006"
