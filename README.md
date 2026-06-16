@@ -10,6 +10,8 @@ Aplicación mobile-first de práctica oral de inglés en estilo karaoke, diseña
 
 ## Capturas de pantalla
 
+> Capturas actualizadas desde ejecución local mobile-first del proyecto el 16 de junio de 2026.
+
 | Inicio | Nueva pista |
 |:---:|:---:|
 | ![Inicio](docs/screenshots/inicio.png) | ![Nueva pista](docs/screenshots/nueva-pista.png) |
